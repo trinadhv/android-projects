@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find gbt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="time">Current time is</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_bus">Select a route</string>
+    <string name="towards">Towards</string>
+     <string name="where">Where are you?</string>
+      <string name="gobutton">Find Next Bus</string>
+     <string name="track">BusTracker</string>
+     <string name="schedule">View Schedule</string>
+     <string name="exit">Exit</string>
+    
+        <string-array name="routes">
+       
+        <item>1</item>
+        <item>CL</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>19x</item>
+        <item>20</item>
+        <item>22x</item>
+       
+         <item>23</item>
+    </string-array>
+    
+           <string-array name="select">
+         <item>-------</item>
+        
+    </string-array>
+        
+           
+            <!-- routes- -->
+          <string-array name="route1">
+         <item>East Bound</item>
+         <item>West Bound</item>
+    </string-array>
+    
+    <!-- - -->
+          
+          
+    
+           
+       <string-array name="routecl">
+          <item>East Bound</item>
+         <item>West Bound</item>
+    </string-array>
+    
+        <string-array name="route3">
+         <item>North Bound</item>
+         <item>South Bound</item>
+        
+    </string-array>
+    
+      <string-array name="route4">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+      <string-array name="route5">
+          <item>East Bound</item>
+         <item>West Bound</item>
+         
+    </string-array>
+    
+       <string-array name="route6">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+       <string-array name="route7">
+        <item>East Bound</item>
+         <item>West Bound</item>
+         
+    </string-array>
+    
+       <string-array name="route8">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+        <string-array name="route9">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+         <string-array name="route10">
+      <item>East Bound</item>
+         <item>West Bound</item>
+         
+    </string-array>
+    
+          <string-array name="route13">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+           <string-array name="route14">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+        
+            <string-array name="route15">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+          <string-array name="route16">
+         <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+           <string-array name="route17">
+        <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+           <string-array name="route19x">
+          <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+           <string-array name="route20">
+          <item>North Bound</item>
+         <item>South Bound</item>
+    </string-array>
+    
+           <string-array name="route22x">
+       <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+          
+    
+           <string-array name="route23">
+        <item>North Bound</item>
+         <item>South Bound</item>
+         
+    </string-array>
+    
+             
+             
+             
+             <!-- stop names -->
+             
+           
+    
+    <string-array name="route1a">
+                 
+         <item>Broad st.and University Ave.</item>
+         <item>Bridgeport Bus station</item>
+         <item>Barnum Ave. and Seaview Ave.</item>
+         <item>Barnum Ave. and Bruce Ave.</item>
+         <item>Barnum Ave. and Main Street</item>
+         <item>Dock Shopping center</item>
+         
+    </string-array>
+    
+             
+              <string-array name="route1b">
+                  <item>Dock Shopping center</item>
+                  <item>Barnum Ave. and Main Street</item>
+                  <item>Barnum Ave. and Bruce Ave.</item>
+                  <item>Barnum Ave. and Seaview Ave.</item>
+                  <item>Bridgeport Bus station</item>
+                  <item>Broad st.and University Ave.</item>
+      
+    </string-array>
+         
+         
+             
+    
+</resources>

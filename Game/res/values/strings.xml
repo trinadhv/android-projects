@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ball of steel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensorText">Sensor X and Y values </string>
+    
+      <string-array name="backgrounds">
+      <item>Wooden</item>
+      <item>Old Metal</item>
+      <item>Black Metal</item>
+   
+   </string-array>
+    <string-array name="velocity">
+      <item>Im new</item>
+      <item>I can play</item>
+      <item>GOD LIKE!!</item>
+   
+   </string-array>
+      
+
+</resources>
